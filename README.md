@@ -2,7 +2,7 @@
 
 Bu proje, Ağ Programlama dersi kapsamında geliştirilmiş, üç ana bileşenden (Server, Client, Relay) oluşan çok kullanıcılı bir sohbet sistemidir. Proje; **TCP Soket Programlama**, **Threading** ve **HTTP Protokolü** kullanılarak Python ile yazılmıştır.
 
-## 🛠️ Proje Bileşenleri
+##  Proje Bileşenleri
 
 | Dosya Adı | Rolü | Sohbet/Web Portu |
 | :---      | :--- | :--- |
@@ -11,12 +11,12 @@ Bu proje, Ağ Programlama dersi kapsamında geliştirilmiş, üç ana bileşende
 | relay_server.py | Aktarıcı Sunucu (Nickname Proxy) | 55556 |
 
 
-## ✅ Kurulum ve Gereksinimler
+##  Kurulum ve Gereksinimler
 
 Proje, Python 3'ün standart kütüphaneleri ile geliştirilmiştir. Herhangi bir harici **`pip install`** komutu **gerekmez**.
 
 
-## 🚀 Çalıştırma Rehberi
+##  Çalıştırma Rehberi
 
 ### 1. Temel Sunucu ve İstemci (Normal Bağlantı)
 
